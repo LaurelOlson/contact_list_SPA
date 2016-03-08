@@ -1,0 +1,5 @@
+$(function() {
+
+  // Show All Contacts
+
+});
